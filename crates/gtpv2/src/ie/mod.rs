@@ -5,6 +5,7 @@ use crate::error::GtpError;
 pub mod ambr;
 pub mod apn;
 pub mod cause;
+pub mod fteid;
 pub mod imsi;
 pub mod types;
 
