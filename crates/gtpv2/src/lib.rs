@@ -2,6 +2,7 @@ pub mod error;
 pub mod header;
 pub mod ie;
 pub mod message;
+pub mod messages;
 
 pub use error::GtpError;
 pub use header::Header;

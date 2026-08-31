@@ -1,3 +1,7 @@
+pub mod message_type {
+    pub const CREATE_SESSION_REQUEST: u8 = 32;
+}
+
 pub mod ie_type {
     pub const IMSI: u8 = 1;
     pub const CAUSE: u8 = 2;
