@@ -1,5 +1,6 @@
 pub mod message_type {
     pub const CREATE_SESSION_REQUEST: u8 = 32;
+    pub const DELETE_SESSION_REQUEST: u8 = 36;
 }
 
 pub mod ie_type {
