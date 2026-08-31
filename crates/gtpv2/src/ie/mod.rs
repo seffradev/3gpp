@@ -2,6 +2,8 @@ use tokio_util::bytes::{Buf, BufMut, Bytes, BytesMut};
 
 use crate::error::GtpError;
 
+pub mod types;
+
 #[derive(Clone, Debug)]
 pub struct InformationElement {
     pub ie_type: u8,
