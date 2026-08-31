@@ -4,6 +4,7 @@ use crate::error::GtpError;
 
 pub mod ambr;
 pub mod apn;
+pub mod imsi;
 pub mod types;
 
 #[derive(Clone, Debug)]
