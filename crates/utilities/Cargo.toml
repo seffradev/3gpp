@@ -1,0 +1,16 @@
+[package]
+name = "utilities"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow.workspace = true
+clap.workspace = true
+dashmap.workspace = true
+futures.workspace = true
+humantime.workspace = true
+gtpv2 = { path = "../gtpv2" }
+hdrhistogram.workspace = true
+rand.workspace = true
+tokio-util.workspace = true
+tokio.workspace = true
