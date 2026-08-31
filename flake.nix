@@ -19,6 +19,8 @@
           rust-analyzer
           rustc
           rustfmt
+          python314Packages.pandas
+          python314Packages.matplotlib
         ];
       };
     };
