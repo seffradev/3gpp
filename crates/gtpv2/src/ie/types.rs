@@ -5,4 +5,5 @@ pub mod ie_type {
     pub const AMBR: u8 = 72;
     pub const EBI: u8 = 73;
     pub const FTEID: u8 = 87;
+    pub const BEARER_QOS: u8 = 80;
 }

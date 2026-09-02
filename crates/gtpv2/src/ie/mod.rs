@@ -4,6 +4,7 @@ use crate::error::GtpError;
 
 pub mod ambr;
 pub mod apn;
+pub mod bearer_qos;
 pub mod cause;
 pub mod fteid;
 pub mod imsi;
