@@ -9,6 +9,7 @@ pub mod bearer_qos;
 pub mod cause;
 pub mod fteid;
 pub mod imsi;
+pub mod rat_type;
 pub mod types;
 
 #[derive(Clone, Debug)]
