@@ -9,6 +9,7 @@ pub mod ie_type {
     pub const FTEID: u8 = 87;
     pub const RAT_TYPE: u8 = 82;
     pub const PDN_TYPE: u8 = 99;
+    pub const PAA: u8 = 79;
     pub const SELECTION_MODE: u8 = 128;
     pub const BEARER_QOS: u8 = 80;
 }
