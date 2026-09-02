@@ -9,6 +9,7 @@ pub mod bearer_qos;
 pub mod cause;
 pub mod fteid;
 pub mod imsi;
+pub mod paa;
 pub mod rat_type;
 pub mod recovery;
 pub mod selection_mode;
