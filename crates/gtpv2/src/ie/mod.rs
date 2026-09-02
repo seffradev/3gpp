@@ -10,6 +10,7 @@ pub mod cause;
 pub mod fteid;
 pub mod imsi;
 pub mod rat_type;
+pub mod selection_mode;
 pub mod types;
 
 #[derive(Clone, Debug)]
