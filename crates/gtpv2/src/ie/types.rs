@@ -1,4 +1,5 @@
 pub mod message_type {
+    pub const ECHO_REQUEST: u8 = 1;
     pub const CREATE_SESSION_REQUEST: u8 = 32;
     pub const DELETE_SESSION_REQUEST: u8 = 36;
     pub const DELETE_SESSION_RESPONSE: u8 = 37;
